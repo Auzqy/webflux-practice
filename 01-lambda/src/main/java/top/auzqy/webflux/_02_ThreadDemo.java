@@ -2,6 +2,7 @@ package top.auzqy.webflux;
 
 /**
  * description:  更好的方式是使用线程池
+ *          简单示例一下 匿名函数 的使用
  * createTime: 2020-01-04 11:52
  * @author au
  */
