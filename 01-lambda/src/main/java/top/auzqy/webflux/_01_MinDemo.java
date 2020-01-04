@@ -1,14 +1,13 @@
 package top.auzqy.webflux;
 
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 /**
  * description:  计算一组数据中的最小值
  * createTime: 2020-01-04 11:26
  * @author au
  */
-public class MinDemo {
+public class _01_MinDemo {
 
     private int[] nums = {2, 3, 1, -3, -433, -555, 333, 222, 654};
 
@@ -42,7 +41,7 @@ public class MinDemo {
     }
 
     public static void main(String[] args) {
-        MinDemo minDemo = new MinDemo();
+        _01_MinDemo minDemo = new _01_MinDemo();
         System.out.println("minDemo.commandStyle(minDemo.nums) = "
                 + minDemo.commandStyle(minDemo.nums));
 
