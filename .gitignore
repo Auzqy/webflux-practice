@@ -67,3 +67,4 @@ fabric.properties
 
 # au added
 .idea/
+*/target/
